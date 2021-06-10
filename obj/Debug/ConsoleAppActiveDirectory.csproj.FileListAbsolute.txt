@@ -1,0 +1,9 @@
+D:\net\learn\ConsoleAppActiveDirectory\bin\Debug\ConsoleAppActiveDirectory.exe.config
+D:\net\learn\ConsoleAppActiveDirectory\bin\Debug\ConsoleAppActiveDirectory.exe
+D:\net\learn\ConsoleAppActiveDirectory\bin\Debug\ConsoleAppActiveDirectory.pdb
+D:\net\learn\ConsoleAppActiveDirectory\obj\Debug\ConsoleAppActiveDirectory.csprojAssemblyReference.cache
+D:\net\learn\ConsoleAppActiveDirectory\obj\Debug\ConsoleAppActiveDirectory.csproj.CoreCompileInputs.cache
+D:\net\learn\ConsoleAppActiveDirectory\obj\Debug\ConsoleAppActiveDirectory.exe
+D:\net\learn\ConsoleAppActiveDirectory\obj\Debug\ConsoleAppActiveDirectory.pdb
+D:\net\learn\ConsoleAppActiveDirectory\bin\Debug\ITI.FWI.dll
+D:\net\learn\ConsoleAppActiveDirectory\obj\Debug\ConsoleAppActiveDirectory.csproj.CopyComplete
